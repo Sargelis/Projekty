@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherApp.MainPage"
+             BackgroundColor="#1E90FF">
+
+    <StackLayout>
+        <Frame BackgroundColor="#00008B" CornerRadius="0">
+            <Label Text="Weather App" HorizontalTextAlignment="Center" TextColor="White" FontAttributes="Bold" FontSize="35"/>
+        </Frame>
+        <Frame BackgroundColor="#0000CD" CornerRadius="20">
+            <StackLayout BackgroundColor="#0000CD">
+                <SearchBar x:Name="SearchCity" Placeholder="Enter City Name" FontAttributes="Bold" TextChanged="City_textchange" WidthRequest="100" BackgroundColor="Blue"/>
+                <Button x:Name="SearchButton" Text="Search" FontAttributes="Bold" FontSize="Large" Clicked="getCity" BackgroundColor="Blue"/>
+            </StackLayout>
+        </Frame>
+        <Frame x:Name="weatherShow"  BackgroundColor="Blue" CornerRadius="20">
+            <StackLayout BackgroundColor="Blue">
+                <Frame BackgroundColor="#0000CD" CornerRadius="10">
+                    <Label x:Name="cityLabel" TextColor="Black" FontSize="25" FontAttributes="Bold" HorizontalTextAlignment="Center" Padding="30,0,30,0" BackgroundColor="#0000CD"/>
+                </Frame>
+                <Label x:Name="skyLabel" TextColor="Black" FontSize="18" FontAttributes="Bold" HorizontalTextAlignment="Start" Padding="30,0,30,0" />
+                <Label x:Name="tempLabel" TextColor="Black" FontSize="18" FontAttributes="Bold" HorizontalTextAlignment="Start" Padding="30,0,30,0" />
+                <Label x:Name="preassureLabel" TextColor="Black" FontSize="18" FontAttributes="Bold" HorizontalTextAlignment="Start" Padding="30,0,30,0" />
+                <Label x:Name="humidityLabel" TextColor="Black" FontSize="18" FontAttributes="Bold" HorizontalTextAlignment="Start" Padding="30,0,30,0" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>
