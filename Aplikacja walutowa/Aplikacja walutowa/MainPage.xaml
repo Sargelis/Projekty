@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplikacja_walutowa.MainPage"
+             BackgroundColor="#1E90FF">
+
+    <StackLayout>
+        <Frame BackgroundColor="#00008B" CornerRadius="0">
+            <Label Text="Currency Exchange App" HorizontalTextAlignment="Center" TextColor="White" FontAttributes="Bold" FontSize="35"/>
+        </Frame>
+        <Frame BackgroundColor="#0000CD" CornerRadius="20">
+            <StackLayout BackgroundColor="#0000CD">
+                <SearchBar x:Name="CodeInput" Placeholder="Enter currency code" FontAttributes="Bold" TextChanged="Code_textchange" WidthRequest="100" BackgroundColor="Blue"/>
+                <Button x:Name="InputButton" Text="CHECK CURRENCY" FontAttributes="Bold" FontSize="Large" Clicked="GetCode" BackgroundColor="Blue"/>
+            </StackLayout>
+        </Frame>
+        <Frame x:Name="currencyShow" BackgroundColor="Blue" CornerRadius="20">
+            <StackLayout BackgroundColor="Blue">
+                <Frame BackgroundColor="#0000CD" CornerRadius="10">
+                    <Label x:Name="bid" TextColor="Black" FontSize="25" FontAttributes="Bold" HorizontalTextAlignment="Center" Padding="30,0,30,0" BackgroundColor="#0000CD" />
+                </Frame>
+                <Frame BackgroundColor="#0000CD" CornerRadius="10">
+                    <Label x:Name="ask" TextColor="Black" FontSize="25" FontAttributes="Bold" HorizontalTextAlignment="Center" Padding="30,0,30,0" BackgroundColor="#0000CD" />
+                </Frame>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>

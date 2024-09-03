@@ -1,0 +1,30 @@
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\bin\Debug\netstandard2.0\Aplikacja walutowa.deps.json
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\bin\Debug\netstandard2.0\Aplikacja walutowa.dll
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\bin\Debug\netstandard2.0\ref\Aplikacja walutowa.dll
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\bin\Debug\netstandard2.0\Aplikacja walutowa.pdb
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.csproj.AssemblyReference.cache
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.AssemblyInfoInputs.cache
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.AssemblyInfo.cs
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.csproj.CoreCompileInputs.cache
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.dll
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\ref\Aplikacja walutowa.dll
+C:\Projekty\Studia_short\Zarzadzanie danych projekt\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.pdb
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\bin\Debug\netstandard2.0\Aplikacja walutowa.deps.json
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\bin\Debug\netstandard2.0\Aplikacja walutowa.dll
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\bin\Debug\netstandard2.0\ref\Aplikacja walutowa.dll
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\bin\Debug\netstandard2.0\Aplikacja walutowa.pdb
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.csproj.AssemblyReference.cache
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.AssemblyInfoInputs.cache
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.AssemblyInfo.cs
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.dll
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\ref\Aplikacja walutowa.dll
+C:\Users\Pawel\Desktop\Aplikacja walutowa\Aplikacja walutowa\Aplikacja walutowa\obj\Debug\netstandard2.0\Aplikacja walutowa.pdb
